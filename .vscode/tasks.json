@@ -8,6 +8,7 @@
       "args": [
         "-std=c++17",
         "-I/usr/include/nlohmann",
+		"-I/home/xiaojy/thirdparty",
         "-fdiagnostics-color=always",
         "-g",
         "${file}",

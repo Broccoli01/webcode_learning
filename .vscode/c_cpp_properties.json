@@ -5,7 +5,8 @@
             "includePath": [
                 "${workspaceFolder}/**",
                 "/usr/include/jsoncpp",
-                "/usr/include/nlohmann"
+                "/usr/include/nlohmann",
+                "/home/xiaojy/thirdparty"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",

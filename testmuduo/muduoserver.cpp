@@ -120,6 +120,8 @@ private:
         {
             cout << conn->peerAddress().toIpPort() << "->"
                  << conn->localAddress().toIpPort() << " State: offline " << endl;
+            conn->shutdown(); // close(fd)
+            // _loop->quit();
         }
     }
     void onMessage(const TcpConnectionPtr &conn, // 连接
