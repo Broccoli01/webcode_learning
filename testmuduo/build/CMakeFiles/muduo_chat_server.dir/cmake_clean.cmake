@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
+  "../bin/muduo_chat_server"
+  "../bin/muduo_chat_server.pdb"
   "CMakeFiles/muduo_chat_server.dir/muduoserver.cpp.o"
   "CMakeFiles/muduo_chat_server.dir/muduoserver.cpp.o.d"
-  "muduo_chat_server"
-  "muduo_chat_server.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

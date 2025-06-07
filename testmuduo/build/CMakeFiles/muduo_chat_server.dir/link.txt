@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/muduo_chat_server.dir/muduoserver.cpp.o -o muduo_chat_server   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lmuduo_net -lmuduo_base 
+/usr/bin/c++ CMakeFiles/muduo_chat_server.dir/muduoserver.cpp.o -o ../bin/muduo_chat_server  -lmuduo_net -lmuduo_base 

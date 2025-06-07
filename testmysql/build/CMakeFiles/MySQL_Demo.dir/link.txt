@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MySQL_Demo.dir/src/main.cpp.o CMakeFiles/MySQL_Demo.dir/src/Database.cpp.o -o ../bin/MySQL_Demo  /usr/lib/x86_64-linux-gnu/libmysqlcppconn.so /usr/lib/x86_64-linux-gnu/libmysqlclient.so -lpthread 
